@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-09T16:32:32 PST" name="Default suite" finished-at="2023-05-09T16:32:50 PST" duration-ms="18232">
+    <groups>
+    </groups>
+    <test started-at="2023-05-09T16:32:32 PST" name="Default test" finished-at="2023-05-09T16:32:50 PST" duration-ms="18232">
+      <class name="testAndroid.TestAndroidTabletAppium">
+        <test-method is-config="true" signature="configureAppLaunch()[pri:0, instance:testAndroid.TestAndroidTabletAppium@24569dba]" started-at="2023-05-09T16:32:32 PST" name="configureAppLaunch" finished-at="2023-05-09T16:32:39 PST" duration-ms="7223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureAppLaunch -->
+        <test-method signature="wifiSettings()[pri:0, instance:testAndroid.TestAndroidTabletAppium@24569dba]" started-at="2023-05-09T16:32:39 PST" name="wifiSettings" finished-at="2023-05-09T16:32:50 PST" duration-ms="10980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wifiSettings -->
+      </class> <!-- testAndroid.TestAndroidTabletAppium -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
